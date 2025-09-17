@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "bd5dc13172e534b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "de5d0cb12b49f8d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a87426e93274782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ucetnictvi/Prednaska 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Prednaska 1"
+            }
+          },
+          {
+            "id": "558a69a9c27cedce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zaklady odborne prace/Prednaska 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prednaska 1"
+            }
+          },
+          {
+            "id": "629d0f862b550c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ucetnictvi/Prednaska 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prednaska 1"
+            }
+          },
+          {
+            "id": "8d8ddb0d92ad0d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zaklady odborne prace/cviceni 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cviceni 1"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f5bdadae4b7a0f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa8dbe9c5cfcef73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5af89c7df56d7ee1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d51b591a75ca68b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Uctyauctovani",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "96be45089b89d4d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adba585a971c431a",
+    "type": "split",
+    "children": [
+      {
+        "id": "93b0e07e409b3b7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5f488520c661868",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ucetnictvi/Prednaska 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Prednaska 1"
+            }
+          },
+          {
+            "id": "8c186199469f6e46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ucetnictvi/Prednaska 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Prednaska 1"
+            }
+          },
+          {
+            "id": "9627525fb1bf75ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "26128976b1680c7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zaklady odborne prace/cviceni 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of cviceni 1"
+            }
+          },
+          {
+            "id": "e54e7c0df722e788",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8d8ddb0d92ad0d12",
+  "lastOpenFiles": [
+    "Zaklady odborne prace/Prednaska 1.md",
+    "Untitled.base",
+    "Zaklady odborne prace/cviceni 1.md",
+    "Ucetnictvi/Prednaska 1.md",
+    "Ekonomie/Cviceni 1.md",
+    "Pasted image 20250917131609.png",
+    "Pasted image 20250917131603.png",
+    "Pasted image 20250917131559.png",
+    "Pasted image 20250917131557.png",
+    "Pasted image 20250917131554.png",
+    "Pasted image 20250917131517.png",
+    "Pasted image 20250917131449.png",
+    "Pasted image 20250917131436.png",
+    "Pasted image 20250917131409.png",
+    "Pasted image 20250917131245.png",
+    "Zaklady odborne prace",
+    "Ekonomie",
+    "Welcome.md",
+    "Ucetnictvi"
+  ]
+}
